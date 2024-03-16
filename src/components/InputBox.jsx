@@ -11,7 +11,7 @@ function InputBox(
         currOptions=[],
         selectedCurr='usd',
         amtDisable = false
-    }
+    } 
 ){
     return (
         <div className="bg-slate-200 w-full m-2 p-2 rounded-lg">
